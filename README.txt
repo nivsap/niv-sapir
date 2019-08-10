@@ -1,0 +1,2 @@
+Whole project of delivery system,This task involved multi-threading + GUIin java (OOP).The system manage whole delivery system there represent on GUI tab.
+you can run the project in systemAPP.jar file
